@@ -1,0 +1,8 @@
+/*
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Embedder-Policy: require-corp
+  Cross-Origin-Resource-Policy: cross-origin
+
+/anura-sw.js
+  Service-Worker-Allowed: /
+  Cache-Control: public, max-age=0, must-revalidate
